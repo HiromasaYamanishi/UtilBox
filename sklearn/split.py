@@ -17,3 +17,5 @@ def stratified_continuous(df, target_col, n_folds=5, q=20):
         index[y_ind]=i
     df['valid'] = index
     return df
+
+    a
