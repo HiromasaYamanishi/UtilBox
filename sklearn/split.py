@@ -18,4 +18,4 @@ def stratified_continuous(df, target_col, n_folds=5, q=20):
     df['valid'] = index
     return df
 
-    a
+    ab
